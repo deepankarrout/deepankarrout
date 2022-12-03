@@ -67,22 +67,27 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 
+## 🏆 GitHub Trophies: 
+
+![](https://github-profile-trophy.vercel.app/?username=deepankarrout&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+
 ## 📊 GitHub Stats: 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarrout&theme=dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=deepankarrout&show_icons=true&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepankarrout&show_icons=true&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepankarrout&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
+---
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=deepankarrout&&style=flat-square)  
@@ -90,30 +95,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 <br/>  
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=deepankarrout&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepankarrout&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarrout&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=deepankarrout&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=deepankarrout&icon=1&color=1)](https://visitcount.itsvg.in)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepankarrout&show_icons=true&locale=en&layout=compact" alt="deepankarrout" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarrout&show_icons=true&locale=en" alt="deepankarrout" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepankarrout&" alt="deepankarrout" /></p>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarrout&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarrout" /> 
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepankarrout" alt="deepankarrout" /></a> </p>
