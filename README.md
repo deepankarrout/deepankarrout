@@ -67,13 +67,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 🏆 GitHub Trophies: 
-
-![](https://github-profile-trophy.vercel.app/?username=deepankarrout&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-
 ## 📊 GitHub Stats: 
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarrout&theme=dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
@@ -86,8 +81,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepankarrout&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
 
-</td></tr></table>  
----
+</td></tr></table> 
+
+<!---## 🏆 GitHub Trophies: 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepankarrout" alt="deepankarrout" /></a> </p>--->
+
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=deepankarrout&&style=flat-square)  
