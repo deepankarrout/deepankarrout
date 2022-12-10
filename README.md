@@ -1,4 +1,4 @@
-[![Header](https://rishavanand.github.io/static/images/greetings.gif "Header")](https://github.com/deepankarrout/)
+[![Header](https://raw.githubusercontent.com/deepankarrout/deepankarrout/main/greetings.gif "Header")](https://github.com/deepankarrout/)
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm Deepankar Rout !  
   
 <a href="https://github.com/deepankarrout" target="_blank">
